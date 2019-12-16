@@ -1,4 +1,4 @@
-const baseURL = 'https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/cb31846de76be44c9d83f02f13b380cb/39.7684,-86.1581';
+const baseURL = 'https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/YOUR_API_KEY_HERE/39.7684,-86.1581';
 
 const searchForm = document.querySelector('form');
 const apparentTemp = document.getElementById('1');
