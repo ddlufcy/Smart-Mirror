@@ -1,0 +1,36 @@
+body{
+    background-color: #1f1f1f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #EAE8FF;
+    display: flex;
+    flex-direction: column;
+    max-height: 100vh;
+    overflow-y: hidden;
+}
+#displayTime{
+    font-size: 80px;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Audiowide', cursive;
+    font-variant-numeric: tabular-nums;
+}
+.infoContainer{
+    margin-left: 31vw;
+    max-height: 35vh;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1.12px ;
+    line-height: 27px;
+}
+#map_canvas {
+    width: 550px;
+    height: 480px;
+    margin: auto;
+    border-radius: 10px;
+    filter: opacity(.90);
+    margin-top: 3em;
+  }
+.summary{
+    
+}
